@@ -6,6 +6,7 @@ This tool takes one parameter, the relative path of the log file.
 
 To run this tool
 >>> node log-analyze-tool.js .\api.log
+
 In this example, api.log file must be int he same folder as the log-analyze-tool.js.
 
 Tool 2: log-anonymize-tool.js
@@ -13,6 +14,7 @@ This tool takes two parameters, the relative path of the log file to anonymize a
 
 To run this tool
 >>> node log-anonymize-tool.js .\api.log .\api-new.log
+
 In this example, api.log file must be int he same folder as the log-anonymize-tool.js and the api-new.log file will also be created in the same folder.
 
 
