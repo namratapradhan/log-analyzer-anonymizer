@@ -1,0 +1,23 @@
+{
+  "name": "log-parser-analyzer-anonymizer",
+  "version": "1.0.0",
+  "description": "This project contains tools to parse, analyze and anonymize a log file.",
+  "main": "log-analyze-tool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namratapradhan/log-parser-analyzer-anonymizer.git"
+  },
+  "author": "npradhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namratapradhan/log-parser-analyzer-anonymizer/issues"
+  },
+  "homepage": "https://github.com/namratapradhan/log-parser-analyzer-anonymizer#readme",
+  "dependencies": {
+    "data-anonymizer": "^0.1.0",
+    "log-analyzer": "^1.1.0"
+  }
+}
